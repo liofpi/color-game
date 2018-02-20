@@ -1,7 +1,10 @@
 # RGB Colour Game Application 
 
-## Guide
+## Description
 - This game is basically choosing the square with the colour that you think has the RGB colour value displayed at the top of the page. 
+- Direct URL: https://khqhrk.github.io/colorGame-js/
+
+## Guide
 - The RGB colour value at the top of the page and the different colours of the squares are randomly generated. Hence, each time you refresh the page, you get a different RGB value and square colour choices. 
 - Click on the "NEW COLOURS" button to generate a new RGB colour to guess if you think the current RGB value is too difficult to guess.
 - This game is comprised of two modes: Easy and Hard.
